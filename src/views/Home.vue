@@ -10,15 +10,11 @@
                             <br>
                             create, edit, or view yours
                         </p>
-                        <router-link class="btn btn-dark btn-raised" to="/login">
-                            Get Started
-                        </router-link>
-                        <br>
                         <a href="https://itunes.apple.com/us/app/couple-list/id1310979486?ls=1&mt=8">
                             <img src="@/assets/download_iOS.svg"
                                  alt="Download on the App Store"
-                                 height="50"
-                                 width="100">
+                                 height="40"
+                                 width="150">
                         </a>
                     </div>
                 </div>

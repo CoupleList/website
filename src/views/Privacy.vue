@@ -9,8 +9,8 @@
                             All user data and credentials are stored through Firebase a service offered by Google.
                             Within Firebase, all data is secured through permissions that only allow the user to edit
                             their information and their list. This data is <strong>NOT</strong> accessible to others and
-                            will <strong>NEVER</strong> be shared. Lists may only be viewed by those who are in it and are not accessible
-                            to others.
+                            will <strong>NEVER</strong> be shared. Lists may only be viewed by those who are in it and
+                            are not accessible to others.
                             <br>
                             <br>
                             No matter the content of your list, it is secure and private.
