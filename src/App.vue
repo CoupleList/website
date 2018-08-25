@@ -5,7 +5,7 @@
         <router-link class="nav-link" to="/">Home</router-link>
       </li>
       <li class="nav-item">
-        <router-link class="nav-link" to="/about">About</router-link>
+        <router-link class="nav-link" to="/privacy">Privacy</router-link>
       </li>
     </ul>
     <router-view style="max-height: calc(100% - 63.42px);"/>
