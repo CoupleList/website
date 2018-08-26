@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and push to production
 ```bash
 npm run build
 firebase deploy --only hosting #requires that developer is authenticated and has access to Firebase project
